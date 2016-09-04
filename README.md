@@ -10,10 +10,12 @@ How do you find out what are the hottest tools for devlopment?
 Imagine a list of development resources curated by developers
 
 Terminal (Mac)
+------------------------
 
 Command Prompt (Windows)
+------------------------
 
-[Cygwin](http://cygwin.com/install.html)
-[ConEmu](https://sourceforge.net/projects/conemu/)
+* [Cygwin](http://cygwin.com/install.html)
+* [ConEmu](https://sourceforge.net/projects/conemu/)
 
 
