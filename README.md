@@ -15,11 +15,7 @@ Popular way to find alternatives to things
 
 An example Google search
 
-```
-iTerm vs 
-```
-
-
+![Testing vs Search](img/usingvsmethod.gif)
 
 Terminal (Mac)
 ------------------------
